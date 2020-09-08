@@ -8,7 +8,7 @@ Students need support in meeting their personal and academic goals from peers th
 MentorMe is a platform where college freshman will meet their mentors who will guide them in their first year of college and help them achieve their personal and academic goals. 
 Mentors will be elligible through their academic background and picked for a Mentee based on similar interests and major. 
 
-Please scroll below to see the UI (this is not a full-working app yet).
+Scroll down to see the UI (this is not a full-working app yet).
 
 ## Registration 
 ![image](https://user-images.githubusercontent.com/55061688/92424305-d9a2a900-f138-11ea-8089-751eab17b0bc.png)
