@@ -26,7 +26,7 @@ Returning users can click on Login on the Registration page if they already have
 ![image](https://user-images.githubusercontent.com/55061688/92424373-0951b100-f139-11ea-91fd-efe677560879.png)
 
 If a student is determined to be elligible to be Mentee they will provide some bio details to portray personality type and what they want out of their college experience to find the best match for them.
-Finding a Mentor might take 24 hors and they will receive an email when they are paired. 
+Finding a Mentor might take 24 hours and they will receive an email when they are paired. 
 
 ## Mentee Paired
 ![image](https://user-images.githubusercontent.com/55061688/92424554-854bf900-f139-11ea-9cf4-74233e6ea680.png)
